@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+.yalc
+yalc.lock
+.eslintcache
+.turbo
+pnpm-lock.yaml
